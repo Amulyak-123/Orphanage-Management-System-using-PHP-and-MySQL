@@ -1,0 +1,26 @@
+
+<h3>Admin menu</h3>
+        <div>
+        <ul>
+            <li><a href="adminchangepasswordform.php">Change password</a></li>
+            <li><a href="adminlogout.php">logout</a></li>
+            <li><a href="addchildform.php">ADD CHILD</a></li>
+            <li><a href="adminviewchild.php">VIEW CHILD</a></li>
+            <li><a href="viewuser.php">VIEW USER</a></li>
+            <li><a href="addstaffform.php">ADD STAFF</a></li>
+            <li><a href="viewstaff.php">VIEW STAFF</a></li>
+            <li><a href="addexpensesform.php">ADD EXPENSES</a></li>
+            <li><a href="viewexpenses.php">VIEW EXPENSES</a></li>
+            <li><a href="viewapplicationdetails.php">APPLICATION DETAILS</a></li>
+            <li><a href="viewapplicationdetails.php">ADD  ADOPTED CHILDREN</a></li>
+            <li><a href="viewadoptedchild.php">VIEW ADOPTED CHILDREN</a></li>
+            <li><a href="viewotherdonations.php">VIEW OTHER DONATIONS</a></li>
+            <li><a href="viewfooddonations.php">VIEW FOOD DONATIONS</a></li>
+            <li><a href="viewmoneydonations.php">VIEW MONEY DONATIONS</a></li>
+            <li><a href="donationsreportform.php">DONATION REPORT</a></li>
+            <li><a href="expensesreportform.php">EXPENSES REPORT</a></li>
+            <li><a href="totalmoneyform.php">TOTAL REPORT</a></li>
+
+            
+         </ul>
+        </div>  

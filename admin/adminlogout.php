@@ -1,0 +1,11 @@
+<?php
+session_start();
+session_destroy();
+header("location:../adminsigninform.php");
+?>
+<?php 
+         if(empty($_SESSION))
+         {
+             header('location:../adminsigninform.php');
+         }
+         ?>

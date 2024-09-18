@@ -1,0 +1,18 @@
+<h3>user menu</h3>
+        <div>
+        <ul>
+            <li><a href="userchangepasswordform.php">CHANGE PASSWORD</a></li>
+            <li><a href="logout.php">LOGOUT</a></li>
+            <li><a href="applicationform.php">ADOPTION APPLICATION</a></li>
+            <li><a href="mydetailsform.php">MY DETAILS</a></li>
+            <li><a href="otherdonationsform.php">OTHER DONATIONS</a></li>
+            <li><a href="fooddonationsform.php">FOOD DONATIONS</a></li>
+            <li><a href="moneydonationsform.php">MONEY DONATIONS</a></li>
+            <li><a href="viewotherdonations.php">VIEW OTHER DONATIONS</a></li>
+            <li><a href="viewfooddonations.php">VIEW FOOD DONATIONS</a></li>
+            <li><a href="viewmoneydonations.php">VIEW MONEY DONATIONS</a></li>
+
+
+            
+         </ul>
+        </div>        
